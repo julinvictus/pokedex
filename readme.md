@@ -14,6 +14,6 @@ https://atom-morgan.github.io/ajax/
 
 https://github.com/adammorganshow/ajax
 
-### How to run:
+## How to run:
 
 Open `index.html` on your browser
